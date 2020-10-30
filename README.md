@@ -1,2 +1,2 @@
-# http://lucasmikio.github.io
+# lucasmikio.github.io
 My personal website
